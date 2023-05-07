@@ -15,7 +15,7 @@ int main()
 		nlohmann::json o;
 		file >> o;
 		std::string name;
-
+		std::cout << "input name : ";
 		std::getline(std::cin , name);
 		for (auto& el : o.items()) 
 		{

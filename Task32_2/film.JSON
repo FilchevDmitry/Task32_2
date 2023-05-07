@@ -1,0 +1,43 @@
+{
+  "Avatar": {
+    "Title": "Avatar",
+    "Year": "2009",
+    "Director": "James Cameron",
+    "Writer": "James Cameron",
+    "Actors": "Sam Worthington",
+    "Country": "USA"
+  },
+  "I Am Legend": {
+    "Title": "I Am Legend",
+    "Year": "2007",
+    "Director": "Francis Lawrence",
+    "Writer": "Mark Protosevich (screenplay), Akiva Goldsman (screenplay), Richard Matheson (novel), John William Corrington, Joyce Hooper Corrington",
+    "Actors": "Will Smith",
+    "Country": "USA"
+  },
+  "The Avengers": {
+    "Title": "The Avengers",
+    "Year": "2012",
+    "Director": "Joss Whedon",
+    "Writer": "Joss Whedon (screenplay), Zak Penn (story), Joss Whedon (story)",
+    "Actors": "Robert Downey Jr.",
+    "Country": "USA"
+  },
+  "The Wolf of Wall Street": {
+    "Title": "The Wolf of Wall Street",
+    "Year": "2013",
+    "Director": "Martin Scorsese",
+    "Writer": "Terence Winter (screenplay), Jordan Belfort (book)",
+    "Actors": "Leonardo DiCaprio",
+    "Country": "USA"
+  },
+  "Interstellar" :{
+    "Title": "Interstellar",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Director": "Christopher Nolan",
+    "Writer": "Jonathan Nolan, Christopher Nolan",
+    "Actors": "Matthew McConaughey",
+    "Country": "USA"
+  }
+}
